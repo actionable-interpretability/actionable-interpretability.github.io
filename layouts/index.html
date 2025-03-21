@@ -6,7 +6,7 @@
     {{ $section := where $.Site.RegularPages "Section" "in" $section_name }}
       {{ range $section }}
         <div class="pv4-l {{ .Params.section_style | default "white" }}">
-<div class="cf pv3 pv4-l f4 tj measure-wide center lh-copy {{ $.Param "text_color" | default "navy" }}">
+<div class="cf pv3 ph3 pv4-l f4 tj measure-wide center lh-copy {{ $.Param "text_color" | default "navy" }}">
           {{ .Content }}
 	</div>
         </div>
