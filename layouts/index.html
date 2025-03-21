@@ -1,0 +1,71 @@
+{{ define "main" }}
+<div class="cf pv3 pv4-l f4 center tc-l lh-copy {{ $.Param "text_color" | default "navy" }}">
+    {{ $mainSections := .Site.Params.mainSections | default (slice "mainpage") }}
+    {{range (first 1 $mainSections)}}
+    {{ $section_name := . }}
+    {{ $section := where $.Site.RegularPages "Section" "in" $section_name }}
+      {{ range $section }}
+        <div class="pv4-l {{ .Params.section_style | default "white" }}">
+<div class="cf pv3 pv4-l f4 tj measure-wide center lh-copy {{ $.Param "text_color" | default "navy" }}">
+          {{ .Content }}
+	</div>
+        </div>
+      {{ end }}
+
+    {{ end }}
+  </div>
+{{ if isset .Site.Data "speakers"}}
+{{$speakers_count := len .Site.Data.speakers}}
+{{ if ge $speakers_count 1}}
+<div class="{{ $.Param "text_color" | default "navy" }} alternating-col-section-invert">
+    <div class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy">
+      <h2>Speakers</h2>
+    </div>
+    {{ range .Site.Data.speakers }}
+    <div class="dt mw6 center pt0 pv5-m pv2-ns">
+      <div class="db dtc-ns v-mid-ns">
+        <img src="{{ .avatar | absURL }}" alt="" class="w-100 mw7 w5-ns" />
+      </div>
+      <div class="db dtc-ns v-mid ph2 pr0-ns pl3-ns">
+        <p class="lh-copy">
+          <h4>{{ .talktitle }}</h4>
+          <p>{{ .name }}</p>
+          <p>{{ .position }}</p>
+          {{ .abstract | markdownify }}
+        </p>
+      </div>
+    </div>
+    {{end}}
+    </div>
+{{end}}
+{{end}}
+</div>
+
+
+{{ if isset .Site.Data "organizers"}}
+{{$organizers_count := len .Site.Data.organizers}}
+{{ if ge $organizers_count 1}}
+    <div class="{{ $.Param "text_color" | default "navy" }}">
+    <div class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy">
+      <h2>Organizers</h2>
+    </div>
+    <div class="cf ph2-ns flex flex-wrap justify-center">
+        {{ range .Site.Data.organizers }}
+        <div class="fl w-100 w-25-ns pa2">
+          <div class="db dtc-ns v-mid-ns w-25">
+            <img src="{{ .avatar | absURL }}" alt="" class="br-100 pa1 ba b--black-10 h3 w3" />
+          </div>
+          <div class="db dtc-ns v-mid ph2 pr0-ns pl3-ns">
+            <p class="lh-copy">
+              <p>{{ .name }}</p>
+              <p>{{ .position }}</p>
+            </p>
+          </div>
+        </div>
+        {{end}}
+    </div>
+  </div>
+    {{end}}
+{{end}}
+
+{{end}}
