@@ -1,5 +1,2 @@
-The workshop on Actionable Interpretability@ICML2025 aims to bridge this gap by fostering discussions on how interpretability insights
-can be applied to advance AI development in various domains. We seek to highlight work that
-goes beyond analysis and contributes to concrete improvements in model alignment, robustness,
-and domain-specific applications, as well as discusses the challenges associated with it.
+The Actionable Interpretability@ICML2025 workshop aims to foster discussions on leveraging interpretability insights to drive tangible advancements in AI across diverse domains. We welcome contributions that move beyond theoretical analysis, demonstrating concrete improvements in model alignment, robustness, and real-world applications. Additionally, we seek to explore the challenges inherent in translating interpretability research into actionable impact.
 
