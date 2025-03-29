@@ -6,3 +6,26 @@ theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params.ananke.social.follow]
+networks = [
+  "x-twitter",
+  "bluesky",
+  "emailus"
+]
+
+[params.ananke.social.x-twitter]
+username = "ActInterp"
+
+[params.ananke.social.bluesky]
+username = "actinterp.bsky.social"
+
+[params.ananke.social.networks.emailus]
+slug = "emailus"
+label = "E-Mail Us"
+icon = "envelope" # font awesome brand icon name
+profile = "mailto:%s"
+share = "false"
+
+[params.ananke.social.emailus]
+username = "act.interp.workshop@gmail.com"
