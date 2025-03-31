@@ -1,6 +1,6 @@
 # Website for the Workshop on Actionable Interpretability
 
-This repository contains the code for our website.
+This repository contains the code for our [website](https://actionable-interpretability.github.io/).
 
 ## Edit Website Content
 
