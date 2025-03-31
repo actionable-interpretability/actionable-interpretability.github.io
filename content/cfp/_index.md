@@ -3,6 +3,7 @@ title: "Call for Papers"
 type: "page"
 menu: "main"
 featured_image: "img/vancouver.jpg"
+description: "Deadline: May 09 2025"
 ---
 
 
