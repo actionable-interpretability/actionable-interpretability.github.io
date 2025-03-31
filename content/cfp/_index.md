@@ -9,6 +9,8 @@ description: "Deadline: May 09 2025"
 
 We invite submissions to our upcoming workshop at ICML 2025. 
 
+**An OpenReview submission link will be published soon.**
+
 ## Topics
 
 Our areas of interest include:
@@ -49,7 +51,7 @@ We also welcome submissions that have been accepted to the ICML 2025 main confer
 
 ## Submission Details
 
-Submissions will be managed through [](https://chatgpt.com/c/67ea3311-42fc-800e-9882-76efa503b8c8#)Openreview (submission link TBA), and must follow [the official ICML template and formatting guidelines](https://icml.cc/Conferences/2025/AuthorInstructions).
+Submissions will be managed through Openreview (submission link TBA), and must follow [the official ICML template and formatting guidelines](https://icml.cc/Conferences/2025/AuthorInstructions).
 
 ## Dates
 *  Submission Deadline: May 9 
