@@ -4,7 +4,7 @@ title = 'Workshop on Actionable Interpretability@ICML 2025'
 theme = 'ananke'
 
 [params]
-  favicon = 'favicon.ico'
+  favicon = 'favicon_48_48.ico'
 
 [caches]
   [caches.images]
