@@ -45,7 +45,7 @@ We welcome submissions of **novel, unpublished work**.  All accepted papers are
 *   **Short Papers**: Up to 4 pages (excluding references and appendix)
     
 
-### Conference Tack
+### Conference Track
 
 We also welcome submissions that have been accepted to the ICML 2025 main conference and wish to highlight their work in the context of this workshop. These submissions will not undergo a second peer review process. Instead, they will go through a light-touch review, solely to assess their relevance to the workshop's themes.
 
