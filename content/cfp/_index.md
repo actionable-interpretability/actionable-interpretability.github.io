@@ -11,6 +11,8 @@ We invite submissions to our upcoming workshop at ICML 2025. 
 
 **An OpenReview submission link will be published soon.**
 
+## Reviewer Self-Nomination
+If you want to nominate yourself as a potential reviewer for our workshop, please fill out this [form](https://forms.gle/4BRdvmeqWbu7WETo6).
 ## Topics
 
 Our areas of interest include:
