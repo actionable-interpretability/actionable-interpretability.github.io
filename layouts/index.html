@@ -19,18 +19,18 @@
 {{ if ge $speakers_count 1}}
 <div class="{{ $.Param "text_color" | default "navy" }} alternating-col-section-invert">
     <div class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy">
-      <h2>Speakers</h2>
+      <h2>Invited Speakers</h2>
     </div>
     {{ range .Site.Data.speakers }}
-    <div class="dt mw6 center pt0 pv5-m pv2-ns">
+    <div class="dt mw6 center pt0 pv5-m pv4-ns">
       <div class="db dtc-ns v-mid-ns">
-        <img src="{{ .avatar | absURL }}" alt="" class="w-100 mw7 w5-ns" />
+        <img src="{{ .avatar | absURL }}" alt="" class="w-100 mw7 w5-ns pa1 ba b--black-10" />
       </div>
       <div class="db dtc-ns v-mid ph2 pr0-ns pl3-ns">
         <p class="lh-copy">
-          <h4>{{ .talktitle }}</h4>
-          <p>{{ .name }}</p>
+          <h2 class="f4 mb2">{{ .name }}</h2>
           <p>{{ .position }}</p>
+          <h4>{{ .talktitle }}</h4>
           {{ .abstract | markdownify }}
         </p>
       </div>
