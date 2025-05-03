@@ -3,7 +3,7 @@ title: "Call for Papers"
 type: "page"
 menu: "main"
 featured_image: "img/vancouver.jpg"
-description: "Deadline: May 17 2025"
+description: "Deadline: May 19 2025"
 ---
 
 
@@ -54,7 +54,7 @@ We also welcome submissions that have been accepted to the ICML 2025 main confer
 Submissions will be managed through OpenReview ([Submission Link](https://openreview.net/group?id=ICML.cc/2025/Workshop/AIW)), and must follow [the official ICML template and formatting guidelines](https://icml.cc/Conferences/2025/AuthorInstructions).
 
 ## Dates
-*  Submission Deadline: ~~May 9~~ May 17
+*  Submission Deadline: ~~May 9~~ May 19
 *  Acceptance Notification: June 9
 
 All accepted papers—across all tracks and types—will be presented as posters at the workshop. A select number of submissions will also be invited for **spotlight presentations**. Please note: for spotlight talks, at least one author must attend the workshop in person.
