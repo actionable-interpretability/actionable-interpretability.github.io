@@ -55,7 +55,7 @@ Submissions will be managed through OpenReview ([Submission Link](https://openre
 
 ## Dates
 *  Submission Deadline: ~~May 9~~ May 19
-*  Acceptance Notification: June 9
+*  Acceptance Notification: June 19
 
 All accepted papers—across all tracks and types—will be presented as posters at the workshop. A select number of submissions will also be invited for **spotlight presentations**. Please note: for spotlight talks, at least one author must attend the workshop in person.
 
