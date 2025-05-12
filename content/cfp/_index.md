@@ -47,7 +47,7 @@ We welcome submissions of **novel, unpublished work**.  All accepted papers are
 
 ### Conference Track
 
-We also welcome submissions that have been accepted to the ICML 2025 main conference and wish to highlight their work in the context of this workshop. These submissions will not undergo a second peer review process. Instead, they will go through a light-touch review, solely to assess their relevance to the workshop's themes.** Authors may submit the camera-ready version of their paper (up to 9 pages, anonymization is not required).**
+We also welcome submissions that have been accepted to the ICML 2025 main conference and wish to highlight their work in the context of this workshop. These submissions will not undergo a second peer review process. Instead, they will go through a light-touch review, solely to assess their relevance to the workshop's themes. **Authors may submit the camera-ready version of their paper (up to 9 pages, anonymization is not required).**
 ## Submission Details
 
 Submissions will be managed through OpenReview ([Submission Link](https://openreview.net/group?id=ICML.cc/2025/Workshop/AIW)), and must follow [the official ICML template and formatting guidelines](https://icml.cc/Conferences/2025/AuthorInstructions).
