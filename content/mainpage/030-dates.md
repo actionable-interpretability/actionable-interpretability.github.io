@@ -1,6 +1,6 @@
 ## Important Dates
 
-**May 19** - Submissions due (extended)
+~~**May 19** - Submissions due (extended)~~
 
 **June 19** - Acceptance notification
 
