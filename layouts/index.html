@@ -42,6 +42,28 @@
 {{end}}
 </div>
 
+{{ if isset .Site.Data "panel"}}
+{{$panel_count := len .Site.Data.panel}}
+{{ if ge $panel_count 1}}
+    <div class="{{ $.Param "text_color" | default "navy" }}">
+    <div class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy">
+      <h2>Panelists</h2>
+    </div>
+    <div class="cf ph2-ns flex flex-wrap justify-center">
+        {{ range .Site.Data.panel }}
+        <div class="fl w-100 w-33-ns pa2">
+          <div class="tc">
+            <img src="{{ .avatar | absURL }}" alt="" class="pa1 ba b--black-10 h5 w5" />
+            <h2 class="f4 mb2">{{ .name }}</h1>
+            <h3 class="f5 fw4 gray mt0">{{ .position }}</h2>
+          </div>
+        </div>
+        {{end}}
+      </div>
+    </div>
+    {{end}}
+{{end}}
+
 
 {{ if isset .Site.Data "organizers"}}
 {{$organizers_count := len .Site.Data.organizers}}
