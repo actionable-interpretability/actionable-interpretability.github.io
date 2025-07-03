@@ -3,6 +3,10 @@ params:
     section_style: "bg-lightest-blue"
 ---
 ## News
+
+- July 03 2025: Schedule for the workshop published!
+- July 03 2025: Information for authors added.
+- June 19 2025: Acceptance notifications are published!
 - May 12 2025: The workshop is scheduled for July 19!
 - May 12 2025: Clarification: Submissions to the conference track may include the camera-ready version of the accepted paper (up to 9 pages, do not need to be anonymized).
 - May 3 2025: The submission deadline has been extended to May 19.
