@@ -1,0 +1,3 @@
+## Information for Authors
+
+Since the AIW workshop is non-archival, there is no need to submit a camera-ready version. For the same reason, papers and reviews on OpenReview will not be made public. We will list all the accepted papers' titles & authors (alongside your poster PDFs and optional video recordings) on our website, but we will not link the PDFs. If you would like your paper to be public, we recommend hosting it on your personal website or on arXiv.
