@@ -23,7 +23,7 @@
       <h2>Invited Speakers</h2>
     </div>
     {{ range .Site.Data.speakers }}
-    <div class="dt mw6 center pt0 pv5-m pv4-ns">
+    <div class="dt mw7 center pt0 pv5-m pv4-ns">
       <div class="db dtc-ns v-mid-ns ph5 ph0-ns">
         <img src="{{ .avatar | absURL }}" alt="" class="w-100 mw7 w5-ns pa1 ba b--black-10" />
       </div>
@@ -32,7 +32,7 @@
           <h2 class="f4 mb2">{{ .name }}</h2>
           <p>{{ .position }}</p>
           <h4>{{ .talktitle }}</h4>
-          {{ .abstract | markdownify }}
+          <div class="tj">{{ .abstract | markdownify }}</div>
         </p>
       </div>
     </div>
