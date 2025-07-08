@@ -1,5 +1,5 @@
-abstract: ""
-talktitle: ""
+abstract: "\"Build it and they will come.\" After years of research on interpreting ML models, why have domain experts largely stayed away? A major obstacle is one of translation: experts don't understand what to do with ML explanations, as the exact interpretation is often unclear and fails to align with how an expert thinks. This talk introduces two lines of research to make explanations accessible to experts. First, we introduce explanations with certified guarantees for mathematically precise and unambiguous interpretations. Second, we develop benchmarks to quantify the alignment of these explanations with expert knowledge, creating a way to evaluate if they make sense in an expert's domain language. We demonstrate our techniques across applications in healthcare, astrophysics, and psychology, for explanations ranging from classic feature attributions to LLM chain-of-thought reasoning."
+talktitle: "Explanations for Experts via Guarantees and Domain Knowledge: From Attributions to Reasoning"
 name: "Eric Wong"
 position: "Assistant Professor, University of Pennsylvania"
 avatar: "img/Eric_Wong.png"
