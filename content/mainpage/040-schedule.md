@@ -4,7 +4,7 @@
 |-------|-------|------------------------|
 | 08:00 | 09:00 | Poster Setup 1         |
 | 09:00 | 09:10 | Opening Remarks        |
-| 09:10 | 09:40 | **Keynote** - Been Kim        |
+| 09:10 | 09:40 | **Keynote** - Been Kim - Agentic Interpretability and Neologism: what LLMs can offer us       |
 | 09:40 | 10:10 | **Keynote** - Sarah Schwettmann        |
 | 10:10 | 10:25 | Contributed Talk     |
 | 10:25 | 10:40 | Contributed Talk     |
