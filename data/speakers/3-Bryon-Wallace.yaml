@@ -1,4 +1,4 @@
-abstract: ""
+abstract: "LLMs are poised to reshape healthcare, offering the possibility of delivering better care at scale. But the blackbox nature of such models brings real risks. Deployed naively, such models may worsen existing biases and exploit spurious correlations; ultimately this may harm patient care. Emerging ("mechanistic") interpretability methods promise to make such models more transparent, but the degree to which such methods might offer actionable insights in realistic, domain-specific tasks is unclear. In this talk I'll discuss some applications of recent interpretability techniques in the context of healthcare, highlighting their potential as well as some current limitations."
 talktitle: "What (if anything) can interpretability do for healthcare?"
 name: "Byron Wallace"
 position: "Associate Professor, Northeastern University"
