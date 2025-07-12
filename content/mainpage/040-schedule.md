@@ -8,9 +8,9 @@
 | 09:40 | 10:10 | **Keynote** - Sarah Schwettmann        |
 | 10:10 | 10:25 | Talk - Detecting High-Stakes Interactions with Activation Probes     |
 | 10:25 | 10:40 | Talk - Actionable Interpretability with NDIF and NNsight    |
-| 10:40 | 11:40 | Poster Session 1       |
+| 10:40 | 11:40 | [Poster Session 1](https://actionable-interpretability.github.io/posters/#session-1-1040---1140)       |
 | 11:40 | 13:00 | Lunch + Poster Setup 2 |
-| 13:00 | 14:00 | Poster Session 2       |
+| 13:00 | 14:00 | [Poster Session 2](https://actionable-interpretability.github.io/posters/#session-2-1300---1400)       |
 | 14:00 | 14:30 | **Keynote** - Byron Wallace - What (if anything) can interpretability do for healthcare?       |
 | 14:30 | 14:45 | Talk - Truthful or Fabricated? Using Causal Attribution to Mitigate Reward Hacking in Explanations    |
 | 14:45 | 15:00 | Talk - Internal Causal Mechanisms Robustly Predict Language Model Out-of-Distribution Behaviors    |
