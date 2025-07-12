@@ -18,7 +18,7 @@
               <p> <a href="{{ .url | absURL }}" target="_blank" rel="noopener noreferrer">[Poster]</a> 
                 {{ if isset . "video"}} <a href="{{ .video | absURL }}" target="_blank" rel="noopener noreferrer">[Video]</a> {{end}}</p>
             <a href="{{ .url | absURL }}" target="_blank" rel="noopener noreferrer">
-            <img src="{{ .url | absURL }}" alt="" title="Click to open poster." class="pa1 ba b--black-10 h5" />
+            <img src="{{ .thumbnail | absURL }}" alt="" title="Click to open poster." class="pa1 ba b--black-10 h5" />
           </a>
           </div>
         </div>
