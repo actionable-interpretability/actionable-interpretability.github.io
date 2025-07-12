@@ -87,4 +87,22 @@
     {{end}}
 {{end}}
 
+{{ if isset .Site.Data "sponsors"}}
+{{$sponsors_count := len .Site.Data.sponsors}}
+{{ if ge $sponsors_count 1}}
+<div class="{{ $.Param "text_color" | default "navy" }}">
+  <div class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy">
+    <h2>Sponsors</h2>
+  </div>
+  <div class="cf ph2-ns flex flex-wrap justify-center">
+      {{ range .Site.Data.sponsors }}
+          <img src="{{ .logo | absURL }}" alt="" class="pa1 h4" />
+          
+      {{end}}
+    </div>
+  </div>
+  {{end}}
+{{end}}
+
+
 {{end}}
