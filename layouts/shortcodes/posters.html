@@ -1,0 +1,33 @@
+{{ if isset .Site.Data "posters"}}
+{{$poster_count := len .Site.Data.posters}}
+{{ if ge $poster_count 1}}
+    <div class="{{ $.Page.Param "text_color" | default "navy" }}">
+    <div class="cf ph2-ns flex flex-wrap justify-center items-end">
+        {{ range .Site.Data.posters }}
+
+        {{ $poster := . }}  {{/* Store the current poster item */}}
+        
+        {{ $selected_session :=  $.Get "session" }}
+
+        {{ if eq .postersession $selected_session }}
+        <div class="fl w-100 w-33-ns pa2">
+          <div class="tc">
+            <h2 class="f4 mb2">{{ .name }}</h2>
+            <h3 class="f5 fw4 gray mt0">{{ .authors }}</h3>
+              <p>{{ if isset . "postersession"}} {{.postersession}} {{end}}</p>
+              <p> <a href="{{ .url | absURL }}" target="_blank" rel="noopener noreferrer">[Poster]</a> 
+                {{ if isset . "video"}} <a href="{{ .video | absURL }}" target="_blank" rel="noopener noreferrer">[Video]</a> {{end}}</p>
+            <a href="{{ .url | absURL }}" target="_blank" rel="noopener noreferrer">
+            <img src="{{ .url | absURL }}" alt="" title="Click to open poster." class="pa1 ba b--black-10 h5" />
+          </a>
+          </div>
+        </div>
+        {{ end }}
+
+
+
+        {{end}}
+      </div>
+    </div>
+    {{end}}
+{{end}}
