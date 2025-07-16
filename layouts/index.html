@@ -87,6 +87,22 @@
     {{end}}
 {{end}}
 
+{{ if isset .Site.Data "reviewers"}}
+<div class="{{ $.Param "text_color" | default "navy" }}">
+  <div class="cf ph3 ph5-l pv2 pv3-l f4 tc-l center measure-wide lh-copy">
+    <h2>Reviewers</h2>
+  </div>
+  
+  <div class="cf pv3 ph3 pv3-l f4 tj measure-wide center lh-copy">
+  <p class="cf ph2-ns flex flex-wrap justify-center">
+    We would like to thank our reviewers for their valuable insights and support, which made this workshop possible. Your contributions are greatly appreciated: <br><br>
+    <div class="f5">
+      {{.Site.Data.reviewers.reviewers }}
+    </div>
+</div>
+</div>
+{{end}}
+
 {{ if isset .Site.Data "sponsors"}}
 {{$sponsors_count := len .Site.Data.sponsors}}
 {{ if ge $sponsors_count 1}}
@@ -103,6 +119,5 @@
   </div>
   {{end}}
 {{end}}
-
 
 {{end}}
