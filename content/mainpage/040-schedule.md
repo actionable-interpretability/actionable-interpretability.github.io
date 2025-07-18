@@ -5,7 +5,7 @@
 | 08:00 | 09:00 | Poster Setup 1         |
 | 09:00 | 09:10 | Opening Remarks        |
 | 09:10 | 09:40 | **Keynote** - Been Kim - Agentic Interpretability and Neologism: what LLMs can offer us       |
-| 09:40 | 10:10 | **Keynote** - Sarah Schwettmann        |
+| 09:40 | 10:10 | **Keynote** - Sarah Schwettmann - AI Investigators for Understanding AI Systems        |
 | 10:10 | 10:25 | Talk - Detecting High-Stakes Interactions with Activation Probes     |
 | 10:25 | 10:40 | Talk - Actionable Interpretability with NDIF and NNsight    |
 | 10:40 | 11:40 | [Poster Session 1](https://actionable-interpretability.github.io/posters/#session-1-1040---1140)       |
