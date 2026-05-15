@@ -1,6 +1,6 @@
 baseURL = 'https://actionable-interpretability.github.io/'
 languageCode = 'en-us'
-title = 'Workshop on Actionable Interpretability@ICML 2025'
+title = 'Workshop on Actionable Interpretability@COLM 2026'
 theme = 'ananke'
 
 [params]
@@ -32,3 +32,10 @@ share = "false"
 
 [params.ananke.social.emailus]
 username = "act.interp.workshop@gmail.com"
+
+[[menus.main]]
+  name = "2025"
+  url = "https://actionable-interpretability.github.io/2025/"
+  weight = 110
+  [menus.main.params]
+    target = "_blank"
