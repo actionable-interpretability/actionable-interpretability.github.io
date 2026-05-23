@@ -39,7 +39,7 @@ We welcome submissions of **novel, unpublished work**.  All accepted papers are
 #### Paper Types
 
 *   **Long Papers**: Up to 9 pages (excluding references and appendix).
-*   **Short Papers**: Up to  pages (excluding references and appendix)
+*   **Short Papers**: Up to 5 pages (excluding references and appendix)
     
 
 ### Fast Track
