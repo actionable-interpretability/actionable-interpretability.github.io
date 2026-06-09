@@ -8,6 +8,9 @@ description: "Deadline: June 21 2026"
 
 We invite submissions to our upcoming workshop at COLM 2026. 
 
+## Reviewer Self-Nomination
+If you want to nominate yourself as a potential reviewer for our workshop, please fill out this [form](https://forms.gle/VpLJpkM6zw3V8bX56).
+
 ## Topics
 
 Our areas of interest include:
