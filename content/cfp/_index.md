@@ -3,7 +3,7 @@ title: "Call for Papers"
 type: "page"
 menu: "main"
 featured_image: "img/san-francisco.jpg"
-description: "Deadline: June 21 2026"
+description: "Deadline: June 24 2026 AOE"
 ---
 
 We invite submissions to our upcoming workshop at COLM 2026. 
