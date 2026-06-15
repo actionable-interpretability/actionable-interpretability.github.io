@@ -56,7 +56,7 @@ Submissions will be managed through OpenReview ([Submission Link](https://openre
 ## Dates
 
 
-*   Submission Deadline: June 21, 2026 (Fast Track papers may be submitted after the COLM acceptance notification)
+*   Submission Deadline: June ~~21~~ 24, 2026 (Fast Track papers may be submitted after the COLM acceptance notification)
 *   Acceptance Notification: July 24, 2026
     
 
