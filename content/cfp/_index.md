@@ -51,7 +51,7 @@ We also welcome submissions from papers accepted to the COLM 2026 main conferenc
 
 ## Submission Details
 
-Submissions will be managed through OpenReview ([Submission Link](https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/AIW)), and must use the COLM template and follow the official guidelines. Work that is currently under review in other venues **is eligible** to be submitted, but must be withdrawn if accepted elsewhere before the workshop.
+Submissions will be managed through OpenReview ([Submission Link](https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/AIW)), and must use the COLM template and follow the official guidelines. Work that is currently under review in other venues **is eligible** to be submitted, but must be withdrawn if already **presented** elsewhere before the workshop (October 9). Please note that we changed this policy from previously "accepted" to "presented" before the workshop.
 
 ## Dates
 
