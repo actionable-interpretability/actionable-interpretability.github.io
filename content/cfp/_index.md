@@ -3,7 +3,13 @@ title: "Call for Papers"
 type: "page"
 menu: "main"
 featured_image: "img/san-francisco.jpg"
-description: "Deadline: June 24 2026 AOE"
+description: "Deadline: June 24 | Fast Track: August 7 AOE"
+---
+
+## Upadate
+
+Fast track papers (accepted COLM papers) can be submitted to the workshop until August 7 under the same OpenReview submission link. 
+
 ---
 
 We invite submissions to our upcoming workshop at COLM 2026. 
@@ -49,6 +55,8 @@ We welcome submissions of **novel, unpublished work**.  All accepted papers are
 
 We also welcome submissions from papers accepted to the COLM 2026 main conference that are relevant to the workshop’s themes. These submissions will not undergo a second full peer-review process. Instead, they will go through a light-touch review, solely to assess their relevance to the workshop’s themes. **Authors may submit the camera-ready version of their paper, up to 9 pages. Anonymization is not required for this track.**
 
+The submission deadline for this track is **August 7**. 
+
 ## Submission Details
 
 Submissions will be managed through OpenReview ([Submission Link](https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/AIW)), and must use the COLM template and follow the official guidelines. Work that is currently under review in other venues **is eligible** to be submitted, but must be withdrawn if already **presented** elsewhere before the workshop (October 9). Please note that we changed this policy from previously "accepted" to "presented" before the workshop.
@@ -56,7 +64,8 @@ Submissions will be managed through OpenReview ([Submission Link](https://openre
 ## Dates
 
 
-*   Submission Deadline: June ~~21~~ 24, 2026 (Fast Track papers may be submitted after the COLM acceptance notification)
+*   Submission Deadline: ~~June 24, 2026~~ 
+*   Fast Track papers may be submitted until August 7, 2026
 *   Acceptance Notification: July 24, 2026
     
 
