@@ -91,6 +91,17 @@
         </div>
         {{end}}
       </div>
+      <script>
+        (function() {
+          var grid = document.currentScript.previousElementSibling;
+          var cards = Array.from(grid.children);
+          for (var i = cards.length - 1; i > 0; i--) {
+            var j = Math.floor(Math.random() * (i + 1));
+            grid.appendChild(cards[j]);
+            cards.splice(j, 1);
+          }
+        })();
+      </script>
     </div>
     </div>
     {{end}}
