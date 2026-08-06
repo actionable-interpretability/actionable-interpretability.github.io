@@ -6,7 +6,7 @@ featured_image: "img/san-francisco.jpg"
 description: "Deadline: June 24 | Fast Track: August 7 AOE"
 ---
 
-## Upadate
+## Update
 
 Fast track papers (accepted COLM papers) can be submitted to the workshop until August 7 under the same OpenReview submission link. 
 
