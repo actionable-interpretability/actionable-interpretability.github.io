@@ -3,12 +3,12 @@ title: "Call for Papers"
 type: "page"
 menu: "main"
 featured_image: "img/san-francisco.jpg"
-description: "Deadline: June 24 | Fast Track: August 7 AOE"
+description: "Deadline: June 24 | Fast Track: August 9 AOE"
 ---
 
 ## Update
 
-Fast track papers (accepted COLM papers) can be submitted to the workshop until August 7 under the same OpenReview submission link. 
+Fast track papers (accepted COLM papers) can be submitted to the workshop until August 9 under the same OpenReview submission link. 
 
 ---
 
