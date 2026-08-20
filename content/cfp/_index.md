@@ -8,7 +8,7 @@ description: "Deadline: June 24 | Fast Track: August 9 AOE"
 
 ## Update
 
-Fast track papers (accepted COLM papers) can be submitted to the workshop until August 9 under the same OpenReview submission link. 
+Since this workshop is non-archival, **no camera-ready version** of the paper required. Feel free to upload your paper to pre-print services such as ArXiv. Similar to [last year](https://actionable-interpretability.github.io/2025/posters/), we plan to publish the *posters* of all accepted submissions on this website.
 
 ---
 
@@ -55,7 +55,7 @@ We welcome submissions of **novel, unpublished work**.  All accepted papers are
 
 We also welcome submissions from papers accepted to the COLM 2026 main conference that are relevant to the workshop’s themes. These submissions will not undergo a second full peer-review process. Instead, they will go through a light-touch review, solely to assess their relevance to the workshop’s themes. **Authors may submit the camera-ready version of their paper, up to 9 pages. Anonymization is not required for this track.**
 
-The submission deadline for this track is **August 7**. 
+The submission deadline for this track is **August 9**. 
 
 ## Submission Details
 
