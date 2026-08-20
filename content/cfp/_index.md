@@ -8,7 +8,7 @@ description: "Deadline: June 24 | Fast Track: August 9 AOE"
 
 ## Update
 
-Since this workshop is non-archival, **no camera-ready version** of the paper required. Feel free to upload your paper to pre-print services such as ArXiv. Similar to [last year](https://actionable-interpretability.github.io/2025/posters/), we plan to publish the *posters* of all accepted submissions on this website.
+Since this workshop is non-archival, **no camera-ready version** of the paper will be required. Feel free to upload your paper to pre-print services such as ArXiv. Similar to [last year](https://actionable-interpretability.github.io/2025/posters/), we plan to publish the *posters* of all accepted submissions on this website.
 
 ---
 
