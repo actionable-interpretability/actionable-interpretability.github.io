@@ -6,9 +6,16 @@ featured_image: "img/san-francisco.jpg"
 description: "Deadline: June 24 | Fast Track: August 9 AOE"
 ---
 
-## Update
+## Updates
 
 Since this workshop is non-archival, **no camera-ready version** of the paper will be required. Feel free to upload your paper to pre-print services such as ArXiv. Similar to [last year](https://actionable-interpretability.github.io/2025/posters/), we plan to publish the *posters* of all accepted submissions on this website.
+
+---
+### Poster Instructions
+
+The poster size for workshop posters will be 34" x 34". Please print the poster before the workshop and bring it with you on the workshop day. We do not provide a printing service for posters. 
+
+In addition to physical posters, we will provide a form to submit a digital version of the poster for publishing on the website. Poster presenters will also have the opportunity to submit a link to a short video presentation of their submission which will be linked on the poster overview page [similar to last year](actionable-interpretability.github.io/2025/posters/).
 
 ---
 
