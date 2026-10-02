@@ -4,6 +4,7 @@ params:
 ---
 ## News
 
+- October 2: You can find the poster assignment [here](https://docs.google.com/spreadsheets/d/1-erK5J6_CQSYIItvli9YwSZCAugQ_azTfAjnEc0lJPw/edit?usp=sharing).
 - August 24: The poster size will be 34" x 34".
 - August 20: There will be no camera-ready version, see [CfP page](https://actionable-interpretability.github.io/cfp/)
 - July 24: Added a separate submission deadline for fast track submissions (August 9)
