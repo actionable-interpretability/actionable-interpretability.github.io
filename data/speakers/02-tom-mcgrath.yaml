@@ -1,5 +1,7 @@
-abstract: ""
-talktitle: ""
+abstract: "It’s easy for the idea of ‘applied’ or ‘actionable’ research to limit our level of ambition. In this talk I want to push against this tendency and suggest that the most actionable interpretability will also be the highest ambition - if you’re fighting for fractional performance gains against black-box baselines, you’ve probably already lost.
+
+Instead, I want to propose thinking of ambitious actionable interpretability, which aims at actions that are either qualitatively harder or outright impossible without interpretability. The most exciting of these in my view is incorporating intelligence into the training process. I’ll present an overview of our recent work on this topic, discuss future directions and risks, and consider what priorities in interpretability research this direction raises."
+talktitle: "Ambitious actionable interpretability"
 name: "Tom McGrath"
 position: "Chief Scientist, Goodfire"
 avatar: "img/tom.jpeg"

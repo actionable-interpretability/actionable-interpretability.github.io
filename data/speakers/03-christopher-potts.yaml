@@ -1,5 +1,5 @@
-abstract: ""
-talktitle: ""
+abstract: "Modern interpretability research has focused almost exclusively on the learned representations of trained models. Such analysis is well suited to scenarios in which the model is a given: one needs to understand, and try to control, a specific artifact. However, in many development scenarios, the model is not a given; we choose the data, architecture, and optimization protocol, and the interactions of these elements ultimately define the model and determine its representations. In this talk, I will argue (along with a chorus of recent voices) that interpretability should move upstream, into model development, and that this will benefit the entire field. Representational analysis tells us what a model has learned, and upstream analysis tells us why it learned those things and what we should do differently next time to achieve better outcomes."
+talktitle: "Post Hoc, Ergo Propter Data"
 name: "Christopher Potts"
 position: "Professor of Linguistics and Computer Science, Stanford University"
 avatar: "img/christopher.jpeg"
