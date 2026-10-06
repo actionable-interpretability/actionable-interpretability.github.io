@@ -1,5 +1,5 @@
-abstract: ""
-talktitle: ""
+abstract: "The \"holy grail\" of interpretability is to discover the abstract concepts and mechanisms that a low-level system, e.g., a large language model (LLM), encodes. For LLM interpretability, this has largely involved recovering concepts/features using methods like sparse autoencoders, unsupervised models of LLM activations. However,  a long line of literature on identifiable representation learning has shown that unsupervised learning is often underspecified, leading to many equally predictive solutions that encode radically different latent concepts, defeating the purpose of interpretability. The related field of causal representation learning (CRL) has focused on developing theory and methods for recovering latent causal models from observations. In this talk, I show how we can bridge the gap between CRL and interpretability to develop unsupervised approaches to LLM interpretability that come with guarantees about the concepts that they learn. I will discuss the empirical successes that identifiability guarantees provide, and conclude by outlining a path forward for CRL and interpretability to achieve the holy grail of this field."
+talktitle: "Robust Interpretability with Causal Representation Learning"
 name: "Dhanya Sridhar"
 position: "Assistant Professor, Université de Montréal, and Core Academic Member of Mila"
 avatar: "img/dhanya.jpeg"
