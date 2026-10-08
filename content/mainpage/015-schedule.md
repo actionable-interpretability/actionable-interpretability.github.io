@@ -17,5 +17,5 @@
 | 14:25 | [Poster Session 2](https://actionable-interpretability.github.io/posters/#session-2-1425---1530)                                  |
 | 15:30 | Coffee Break                                                                  |
 | 16:00 | **Keynote** Christopher Potts, Stanford - Post Hoc, Ergo Propter Data                                              |
-| 16:40 | Panel                                                                         |
+| 16:40 | Panel Discussion: Scaling Interpretability                                                                         |
 | 17:10 | Closing Remarks                                                               |
