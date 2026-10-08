@@ -1,5 +1,6 @@
-abstract: ""
-talktitle: ""
+abstract: "Despite the increasing interest in interpretability over the past few years, the field has struggled to keep up with the frontier of AI.
+This talk will make two arguments. First, that for interpretability to be actionable, it needs to scale up. Second, that the community should pursue  interpretability beyond natural-language models. The talk will include examples of (actionable) interpretability for unlearning undesired knowledge in language models and (not-yet-actionable) interpretability of protein models."
+talktitle: "(Actionable) Interpretability beyond Language"
 name: "Yonatan Belinkov"
 position: "Associate Professor, Taub Faculty of Computer Science, Technion"
 avatar: "img/yonatan.jpg"
