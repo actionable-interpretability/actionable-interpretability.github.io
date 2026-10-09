@@ -15,7 +15,8 @@
 |       | How Faithful Is Trajectory-Based Data Attribution? Error Sources, Remedies, and Practical Guideline |
 |       | Verbalizing LLMs' assumptions to explain and control sycophancy - a realistic scenario, connecting analysis with interpretability and acting on it |
 | 14:25 | [Poster Session 2](https://actionable-interpretability.github.io/posters/#session-2-1425---1530)                                  |
-| 15:30 | Coffee Break                                                                  |
+| 15:30 | Group Photo
+| 15:40 | Coffee Break                                                                  |
 | 16:00 | **Keynote** Christopher Potts, Stanford - Post Hoc, Ergo Propter Data                                              |
 | 16:40 | Panel Discussion: Scaling Interpretability - Belinda Zou Li, David Bau, Ekdeep Singh Lubana     |
 | 17:10 | Closing Remarks                                                               |
